@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Inverted.png</file>
+        <file>images/InvertedSide.png</file>
+        <file>images/Normal.png</file>
+        <file>images/Side.png</file>
+        <file>images/airplane.ico</file>
+        <file>images/Gauge.png</file>
+        <file>images/plane_256.bmp</file>
+    </qresource>
+</RCC>
